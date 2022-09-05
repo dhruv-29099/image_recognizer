@@ -1,0 +1,13 @@
+body{
+background-image: linear-gradient(160deg,#0093E9 0%,cyan 50%,#80D0C7 100% ,darkblue);
+background-size: contain;
+overflow: scroll;
+}
+#camera{
+height:300px;
+width:350px;
+border-style: dashed;
+}
+#image{
+background-color: aliceblue;
+}
