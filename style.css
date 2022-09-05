@@ -11,3 +11,7 @@ border-style: dashed;
 #image{
 background-color: aliceblue;
 }
+hr{
+background-color:yellow;
+height: 1px;;
+}
